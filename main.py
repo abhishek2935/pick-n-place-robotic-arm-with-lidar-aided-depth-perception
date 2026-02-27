@@ -1,5 +1,4 @@
 import cv2
-import matplotlib.plot as plt 
 
 cap = cv2.VideoCapture(0)
 ret, frame = cap.read()
